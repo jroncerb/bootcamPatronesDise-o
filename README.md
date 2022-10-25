@@ -1,1 +1,1 @@
-# bootcamPatronesDise-o   desarrollador  Jesús Roncero
+# bootcamPatronesDiseno   desarrollador  Jesús Roncero
